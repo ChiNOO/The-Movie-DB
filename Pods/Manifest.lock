@@ -1,0 +1,44 @@
+PODS:
+  - Kingfisher (6.3.1)
+  - ObjectMapper (4.2.0)
+  - "ObjectMapper+Realm (1.2)":
+    - ObjectMapper
+    - RealmSwift
+  - Realm (5.5.1):
+    - Realm/Headers (= 5.5.1)
+  - Realm/Headers (5.5.1)
+  - RealmSwift (5.5.1):
+    - Realm (= 5.5.1)
+  - ViewAnimator (3.1.0)
+  - youtube-ios-player-helper (1.0.3)
+
+DEPENDENCIES:
+  - Kingfisher
+  - ObjectMapper
+  - "ObjectMapper+Realm"
+  - RealmSwift (~> 5.0)
+  - ViewAnimator
+  - youtube-ios-player-helper
+
+SPEC REPOS:
+  trunk:
+    - Kingfisher
+    - ObjectMapper
+    - "ObjectMapper+Realm"
+    - Realm
+    - RealmSwift
+    - ViewAnimator
+    - youtube-ios-player-helper
+
+SPEC CHECKSUMS:
+  Kingfisher: 016c8b653a35add51dd34a3aba36b580041acc74
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  "ObjectMapper+Realm": 0f8d0ac5b0e87ba63d2d0bea76a111b4eae98b9a
+  Realm: c2ffe0667f9c98c9ba65f608ba85684d39826145
+  RealmSwift: 5a35c1c35c3e1925e6fcd092c881d5cc4a826bff
+  ViewAnimator: a9ceed80266e00fd435ec4fb99b2df64d580d0e4
+  youtube-ios-player-helper: 0185c57db23c80d63d6ca11251d110abb8a4ca61
+
+PODFILE CHECKSUM: 778bd4b0768a021d7f5359084b20ca159e3c1b84
+
+COCOAPODS: 1.10.2
